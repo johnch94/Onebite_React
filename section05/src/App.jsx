@@ -1,11 +1,10 @@
 import "./App.css";
-import "./mission/day10";
-import AppDay10 from "./mission/day10";
+import AppDay11 from "./mission/day11";
 
 function App() {
   return (
     <>
-      <AppDay10 />
+      <AppDay11 />
     </>
   )
 }
